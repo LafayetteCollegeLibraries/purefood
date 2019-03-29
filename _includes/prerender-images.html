@@ -1,0 +1,4 @@
+{%- assign images = site.data.maps[page.data_key].maps | map: 'image' -%}
+{%- for image in images -%}
+<link rel="preload" href="/assets/images/maps/{{ page.data_key }}/{{ image }}" as="image">
+{% endfor %}

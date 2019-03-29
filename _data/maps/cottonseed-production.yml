@@ -1,0 +1,37 @@
+legend:
+  - title: Cottonseed Oil Crushing Mills
+    values:
+      - text: 1 Mill
+        style: >-
+          background-color: #d95f02;
+          border: none;
+          border-radius: 100%;
+          display: inline-block;
+          height: 12px;
+          width: 12px;
+
+      - text: 3 Mills
+        style: >-
+          background-color: #d95f02;
+          border: none;
+          border-radius: 100%;
+          display: inline-block;
+          height: 18px;
+          width: 18px;
+  - title: Cotton Production in 500 lb. bales
+    values:
+      - color: "#1b9e77"
+        width: 4px
+        text: 1 Dot = 1,000 bales
+
+maps:
+  - image: CottonProduction_1860_v3.jpg
+    timeline: 1860
+  - image: CottonProduction_1870_v3.jpg
+    timeline: 1870
+  - image: CottonProduction_1880_v3.jpg
+    timeline: 1880
+  - image: CottonProduction_1890_v3.jpg
+    timeline: 1890
+  - image: CottonProduction_1900_v3.jpg
+    timeline: 1900

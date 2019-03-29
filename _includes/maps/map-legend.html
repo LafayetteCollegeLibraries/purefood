@@ -1,0 +1,33 @@
+{% for legend in legend_data %}
+<div class="row">
+  {% if legend.title %}
+  <div class="container-fluid">
+    <h3>{{ legend.title }}</h3>
+  </div>
+  {%- endif -%}
+
+  {% if legend.image %}
+  <img class="img-responsive" src="{{ legend.image }}" />
+  {%- endif -%}
+
+  {%- if legend.values -%}
+  {% for value in legend.values %}
+  <div class="row">
+    <div class="col-xs-3">
+      {%- if value.style -%}
+      <div class="legend-block" style="{{ value.style }}"></div>
+      {%- elsif value.color -%}
+      <div class="legend-block" style="background-color: {{ value.color }}; border-color: #000;"></div>
+      {%- elsif value.image -%}
+      <div class="legend-block" style="background-image: url({{ value.image }}); border-color: #000"></div>
+      {% endif %}
+    </div>
+
+    <div class="col-xs-9">
+      {{ value.text }}
+    </div>
+  </div>
+  {%- endfor -%}
+  {%- endif -%}
+</div>
+{% endfor %}

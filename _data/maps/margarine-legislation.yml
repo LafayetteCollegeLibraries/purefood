@@ -1,0 +1,57 @@
+legend:
+  - title: Type of Legislation
+    values:
+      - color: "#e1e1e1"
+        text: No Legislation
+      - color: "#edf8fa"
+        text: Labeling
+      - color: "#b2e2e2"
+        text: Coloring
+      - color: "#65c2a5"
+        text: Taxation
+      - color: "#248b46"
+        text: Prohibition
+
+maps:
+  - image: OleoLeg_1877_960.png
+    timeline: 1877
+  - image: OleoLeg_1878_960.png
+    timeline: 1878
+  - image: OleoLeg_1879_960.png
+    timeline: 1879
+  - image: OleoLeg_1881_960.png
+    timeline: 1881
+  - image: OleoLeg_1882_960.png
+    timeline: 1882
+  - image: OleoLeg_1883_960.png
+    timeline: 1883
+  - image: OleoLeg_1884_960.png
+    timeline: 1884
+  - image: OleoLeg_1885_960.png
+    timeline: 1885
+  - image: OleoLeg_1886_960.png
+    timeline: 1886
+  - image: OleoLeg_1887_960.png
+    timeline: 1887
+  - image: OleoLeg_1888_960.png
+    timeline: 1888
+  - image: OleoLeg_1889_960.png
+    timeline: 1889
+  - image: OleoLeg_1891_960.png
+    timeline: 1891
+  - image: OleoLeg_1892_960.png
+    timeline: 1892
+  - image: OleoLeg_1893_960.png
+    timeline: 1893
+  - image: OleoLeg_1894_960.png
+    timeline: 1894
+  - image: OleoLeg_1895_960.png
+    timeline: 1895
+  - image: OleoLeg_1896_960.png
+    timeline: 1896
+  - image: OleoLeg_1897_960.png
+    timeline: 1897
+  - image: OleoLeg_1898_960.png
+    timeline: 1898
+  - image: OleoLeg_1899_960.png
+    timeline: 1899

@@ -1,0 +1,25 @@
+<div class="{{ class_name }}" data-timeline-index="{{ forloop.index0 }}" data-title="{{ entry.location }}">
+  <h4>
+    {%- if entry.title -%}
+      {{ entry.title }}
+    {%- else -%}
+      {{ entry.timeline }}
+    {%- endif -%}
+  </h4>
+
+  <p>{{ entry.content | join: '</p><p>' }}</p>
+
+  <div class="thumbnail">
+    <a
+      class="fancy"
+      href="/assets/images/maps/paraf/{{ entry.thumbnail.image }}"
+      data-toggle="lightbox"
+    >
+      <img alt="location thumbnail" src="/assets/images/maps/paraf/{{ entry.thumbnail.image }}">
+    </a>
+
+    <div class="caption">
+      <p>{{ entry.thumbnail.caption }}</p>
+    </div>
+  </div>
+</div>

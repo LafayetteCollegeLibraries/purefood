@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="container-fluid">
+  <section id="title">
+    <div class="container-fluid">
+      <h1>{{ page.title }}</h1>
+
+      <ul class="breadcrumb pull-left">
+        <li><a href="/">Home</a></li>
+        <li>{{ page.title }}</li>
+      </ul>
+
+      <ul class="nav nav-pills pull-right">
+        <li role="presentation">
+          <a href="/copyright">Copyright</a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="content">
+    {{ content }}
+  </section>
+</div>

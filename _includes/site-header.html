@@ -1,0 +1,53 @@
+<nav role="navigation" class="NavContainer navbar navbar-inverse">
+  <div class="HeaderContainer container-fluid">
+    <h2>
+      <a href="https://library.lafayette.edu">Skillman Library at Lafayette College</a>
+    </h2>
+    <h1>
+      <a href="/">
+        <em>Pure Adulteration</em>
+        Digital Companion Site
+      </a>
+    </h1>
+  </div>
+
+  <div id="navbar-container" class="container-fluid">
+    <div id="navbar" class="navbar-collapse collapse row">
+      <ul class="menu nav navbar-left col-xs-2">
+        <li>
+          <a href="https://dss.lafayette.edu" class="navbar-brand pull-left">
+            <img src="/assets/images/dss_logo.png">
+          </a>
+        </li>
+      </ul>
+
+      <ul id="navbar-menu" class="menu nav col-xs-9 row">
+        <li class="col-xs-3">
+          <a href="/">Home</a>
+        </li>
+        <li class="col-xs-3">
+          <a href="/chapters">Table of Contents</a>
+        </li>
+        <li class="dropdown col-xs-3 col-xs-3" style="cursor: pointer;">
+          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown">
+            Maps
+            {% include caret-down.html %}
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="/maps/paraf">Paraf's Itinerary</a></li>
+            <li><a href="/maps/margarine-legislation">Oleomargarine Legislation</a></li>
+            <li><a href="/maps/margarine-production">Butter and Oleomargarine Production</a></li>
+            <li><a href="/maps/cottonseed-production">Cottonseed Oil Production</a></li>
+            <li><a href="/maps/cottonseed-exports">Cottonseed Oil Exports</a></li>
+            <li><a href="/maps/glucose-exports">Glucose Exports</a></li>
+            <li><a href="/maps/margarine-exports">Oleomargarine Exports</a></li>
+            <li><a href="/maps/oil-exports">Oleo Oil Exports</a></li>
+          </ul>
+        </li>
+        <li class="col-xs-3">
+          <a href="/notes">Notes</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

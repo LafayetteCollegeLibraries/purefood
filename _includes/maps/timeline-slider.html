@@ -1,0 +1,29 @@
+{%- assign ticks = [] -%}
+{%- assign size = timeline_stops | size | minus: 1 %}
+{%- for i in (0..size) -%}
+  {%- assign current = i | split: ' ' %}
+  {%- assign ticks = ticks | concat: current -%}
+{%- endfor -%}
+<div class="row">
+  <div class="col-xs-1">
+    <!-- play btn -->
+  </div>
+
+  <div class="col-xs-1">
+    <!-- backwards btn -->
+  </div>
+
+  <div class="col-xs-10 text-center">
+    {% assign labels = timeline_stops | join: '","' %}
+    <input
+      id="timeline-slider"
+      type="text"
+      data-provide="slider"
+      data-slider-lock-to-ticks="true"
+      data-slider-ticks="[{{ ticks | join: ',' }}]"
+      data-slider-ticks-labels='["{{ labels }}"]'
+      data-slider-tooltip="hide"
+      style="width: inherit;"
+    />
+  </div>
+</div>

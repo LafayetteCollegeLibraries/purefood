@@ -1,0 +1,11 @@
+{% for entry in map_data %}
+  {% assign class_name = 'img-responsive timeline-map' %}
+  {% unless forloop.first %}
+    {% assign class_name = class_name | append: ' hidden' %}
+  {% endunless %}
+<img
+  src="/assets/images/maps/{{ key }}/{{ entry.image }}"
+  class="{{ class_name }}"
+  data-timeline-index="{{ forloop.index0 }}"
+/>
+{% endfor %}

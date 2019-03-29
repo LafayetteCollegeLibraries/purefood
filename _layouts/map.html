@@ -1,0 +1,48 @@
+---
+layout: page
+stylesheets:
+  - /assets/bootstrap-slider-10.6.1.min.css
+scripts:
+  - /assets/javascript/bootstrap-slider-10.6.1.min.js
+---
+{% assign key = page.data_key %}
+{% assign data = site.data.maps[key] %}
+{% assign map_data = data.maps %}
+{% assign legend_data = data.legend %}
+{% assign timeline_stops = map_data | map: 'timeline' %}
+
+<div class="container-fluid">
+  <div class="container-fluid">
+    <div class="col-sm-{% if legend_data %}10{% else %}12{% endif %}">
+      {% include maps/map-display.html map_data=map_data %}
+    </div>
+
+    {%- if legend_data -%}
+    <div class="col-sm-2">
+      {% include maps/map-legend.html legend_data=legend_data %}
+    </div>
+    {%- endif -%}
+  </div>
+
+  <div class="container-fluid">
+    {% include maps/timeline-slider.html timeline_stops=timeline_stops %}
+
+    <script>
+      $(document).ready(function () {
+        var $sliderEl = $('#timeline-slider')
+        $sliderEl.slider({ value: 0 })
+
+        $sliderEl.on('slide', function (slideEvt) {
+          $('.timeline-map').addClass('hidden')
+          var idx = slideEvt.value.toString()
+          var $nextEl = $('.timeline-map[data-timeline-index=' + idx + ']')
+          $nextEl.removeClass('hidden')
+        })
+      })
+    </script>
+  </div>
+
+  <div class="container-fluid">
+    {{ content }}
+  </div>
+</div>

@@ -1,0 +1,7 @@
+maps:
+  - image: oil_exports_1890.jpg
+    timeline: 1890
+  - image: oil_exports_1900.jpg
+    timeline: 1900
+  - image: oil_exports_1910.jpg
+    timeline: 1910

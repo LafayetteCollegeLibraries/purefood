@@ -1,0 +1,11 @@
+maps:
+  - image: glucose_exports_1890.jpg
+    timeline: 1890
+  - image: glucose_exports_1895.jpg
+    timeline: 1895
+  - image: glucose_exports_1900.jpg
+    timeline: 1900
+  - image: glucose_exports_1905.jpg
+    timeline: 1905
+  - image: glucose_exports_1910.jpg
+    timeline: 1910

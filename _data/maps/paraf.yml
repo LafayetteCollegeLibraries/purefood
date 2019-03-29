@@ -1,0 +1,224 @@
+maps:
+  - timeline: 1844
+    location: Mulhouse
+    content:
+      - Alfred Paraf was born June 10, 1844 in Mulhouse, a manufacturing hub near
+        the Rhine in the Alsace region. It had been an independent state, became
+        a German state, and is now part of France. Paraf’s family was a mainstay
+        in the city, leading manufacturing efforts in the dye industry. His father
+        was an "extensive calico printing works"
+    thumbnail:
+      image: Mulhouse_101_1024.png
+      caption: >-
+        Edmond, C. <i>Plan de la Ville de Mulhouse.</i> 1844. (Bibliothèque nationale de France)
+    image: ParafTravels_Mulhouse_960.png
+
+  - timeline: 1863
+    location: Glasgow
+    content:
+      - Paraf studied chemistry in Paris and then headed to Glasgow in the early
+        1860s with money from his father. While there, he used the funds and his
+        chemical training to devise and sell a new calico dye from a fragrant plant
+        called weld (<em>reseda lutea</em>). The dye didn’t have staying power,
+        but investors didn’t know this until Paraf was already on his way back to France.
+    thumbnail:
+      image: glasgow_1280.png
+      caption: >-
+        Fullarton, A. & Co. <i>City of Glasgow</i>. 1872. (David Rumsey Map Collection)
+    image: ParafTravels_Glasgow_960_arrow.png
+
+  - timeline: 1864
+    location: Paris
+    content: >-
+      - After the Glasgow side trip, Paraf returned to Paris where his uncle was
+        a partner in Paraf, Javal, & Co. He sold a "new color" to his uncle for
+        $10,000 deal and used the money to ship out to the United States. Apparently
+        the dye was a legitimate product, but the younger Paraf had stolen the patent
+        from a friend and claimed it as his own.
+    thumbnail:
+      image: Paris_1869_301_1024.png
+      caption: >-
+        Vuillemin A. & J. Migeon. <i>Paris et son Mur d'Enceinte</i>. 1869.
+        (David Rumsey Map Collection)
+    image: ParafTravels_Paris_960_arrow.png
+
+  - timeline: 1867
+    location: New York City
+    content:
+      - Reports differ, but the spry 22 year old headed to New York in late 1866
+        or early 1867 (his Obit says he left Europe in 1867). Upon arrival he met
+        with Messrs. F. Bredt and Co., dealers in chemistry and textile coloring
+        dyes and sought an introduction to Prof. Charles Chandler of Columbia
+        University. He stayed for a time in current-day Midtown.
+    thumbnail:
+      image: NewYorkBrooklyn_1874_inset_640_844.png
+      caption: >-
+        Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
+    image: ParafTravels_NewYork_960_arrow.png
+
+  - timeline: 1868b
+    title: 1868
+    location: Boston
+    content:
+      - He travelled to New England known as a French chemist specializing in plant
+        and animal chemistry, selling licenses for $2000 to $3000 for his dyes. He
+        worked for a time in Boston, seeking more investors in the textile industry
+        for his dyes. Scientific American reported on Paraf, "of Boston, Mass." when
+        he filed a patent for "separating coloring matter from madder and other plants."
+        The purpose was to "liberate the coloring matter of the madder root…from the
+        ligneous matter" so the root’s coloring matter could be used in textile dye processing.
+    thumbnail:
+      image: Boston_1874_640_779.png
+      caption: >-
+        Colton, G.W. <i>Boston and Adjacent Cities</i>. 1874. (David Rumsey Map Collection)
+    image: ParafTravels_Boston_960_arrow.png
+
+  - timeline: 1868b
+    title: 1868
+    location: New York City
+    content:
+      - Paraf was living for a time with a woman he referred to as his wife,
+        Marian Woodbury, before spending down his money through extravagant expenses that
+        included dinner parties at Delmonico’s and carriage services all over the city.
+        He lived at Everett House during this time, at Union Square on 14th St.
+    thumbnail:
+      image: NewYorkBrooklyn_1874_inset_640_844.png
+      caption: >-
+        Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
+    image: ParafTravels_NewYork_960_2_arrow.png
+
+  - timeline: 1869
+    location: Providence
+    content:
+      - After this initial tour, he met the former Rhode Island Governor Sprague in
+        New York and subsequently entered into business with him in Providence. He
+        received $75,000 after doing a demonstration experiment to show Sprague the
+        value of his calico dyes, apparently to Sprague’s satisfaction.
+    thumbnail:
+      image: Providence_1881_640_800.png
+      caption: >-
+        Walling, H.F. <i>Map of the City of Providence</i>. 1881.
+        (Norman B. Leventhal Map Center, Boston Public Library)
+    image: ParafTravels_Providence_960_arrow.png
+
+  - timeline: 1869
+    location: New York City
+    content:
+      - He set up a business office at No. 42 Broad Street in lower Manhattan after
+        his return from New England.
+    thumbnail:
+      image: NewYorkBrooklyn_1874_inset_640_844.png
+      caption: >-
+        Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
+    image: ParafTravels_NewYork_960_3_arrow.png
+
+  - timeline: 1869
+    title: 1869-1870
+    location: Providence
+    content:
+      - He lived and worked in Providence for almost a year, setting up the new
+        calico works. By the time it was ready for operations, Sprague found out
+        that Paraf’s process would not work to scale. Paraf then left to return to NYC.
+    thumbnail:
+      image: Providence_1881_640_800.png
+      caption: >-
+        Walling, H.F. <i>Map of the City of Providence</i>. 1881.
+        (Norman B. Leventhal Map Center, Boston Public Library)
+    image: ParafTravels_Providence_960_arrow.png
+
+  - timeline: 1870
+    title: 1870-73
+    location: New York City
+    content:
+      - He lived at 25th St. and 5th Avenue at the future home of the New York Club
+        during this fourth stay in New York. While somehow escaping the legal wrath
+        of Sprague, it was during this time that he met, courted and wed Leila Smith,
+        the daughter of a high profile New York lawyer, C. Bainbridge Smith.
+      - Paraf had at some point traveled back to Paris before returning once again to
+        New York. The historical record is not clear on those passages but we do know
+        that in Spring 1872 he brought the Mege Oleomargarine patent to the city,
+        claiming it as his own. At this time, he culled investors to start the
+        Oleomargarine Company. It was later renamed the United State Dairy Company when
+        investors learned Paraf had pilfered the patent from Mege-Mouries.
+      - During this period, he moved farther uptown to live at 49th St. and 5th Ave.
+    thumbnail:
+      image: NewYorkBrooklyn_1874_inset_640_844.png
+      caption: >-
+        Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
+    image: ParafTravels_NewYork_960_4_arrow.png
+
+  - timeline: 1873
+    location: Cleveland
+    content:
+      - Reports from Cleveland indicate that Paraf stopped in the city on his train route out West.
+    thumbnail:
+      image: Cleveland_1872_640_471.png
+      caption: >-
+        Walling, H.F., et al. <i>Cleveland, Cayahoga Co.</i> 1872. (David Rumsey Map Collection)
+    image: ParafTravels_Cleveland_960_arrow.png
+
+  - timeline: 1873
+    location: San Francisco
+    content:
+      - Ostensibly at the invitation of capitalists in California, he helped build the new
+        California Oleomargarine Company in San Francisco. On 23 October 1873 he gave a
+        public display of the process at San Francisco’s Placard Exchange (615 Merchant St.).
+      - The next summer, he was arrested on August 4, 1874 with an associate "under an
+        indictment for forgery."
+    thumbnail:
+      image: SanFrancisco_1884_640_784.png
+      caption: >-
+        Gray, O.W. <i>San Francisco</i>. 1884. (David Rumsey Map Collection)
+    image: ParafTravels_SanFrancisco_960_arrow.png
+
+  - timeline: 1875
+    title: September 1875
+    location: Virginia City
+    content:
+      - Paraf travelled to Nevada as an investor in the Nevada Ore Extracting Co. He would
+        buy 175 shares of stock.
+    thumbnail:
+      image: VirginiaCity_1875_640_526.png
+      caption: >-
+        Koch, A. Bird’s eye view of Virginia City. 1875. (Library of Congress)
+    image: ParafTravels_VirginiaCity_960_arrow.png
+
+  - timeline: 1876
+    location: San Francisco
+    content:
+      - In February 1876, the "Oleaginous Paraf" left town for "more congenial climes,"
+        according to the San Francisco Daily Morning Call.
+    thumbnail:
+      image: SanFrancisco_1884_640_784.png
+      caption: >-
+        Gray, O.W. <i>San Francisco</i>. 1884. (David Rumsey Map Collection)
+    image: ParafTravels_SanFrancisco_960_2_arrow.png
+
+
+  - timeline: 1877
+    title: May 1877
+    location: Santiago
+    content:
+      - He was arrested on arrival in Santiago, but kept up appearances and business
+        ventures all the while. On May 16, 1877, he formed the Paraf Smelting Works in
+        Santiago while living at the Des Hotel Ingles.
+      - <h4>1879</h4>In October of 1879, he was convicted in court, guilty of violating
+        Articles 167 and 468 of the Chilean Penal Code.
+    thumbnail:
+      image: Santiago_1875_640_741.png
+      caption: >-
+        Ansart, E. <i>Plano De Santiago</i>. 1875. (David Rumsey Map Collection)
+    image: ParafTravels_Santiago_960_arrow.png
+
+  - timeline: 1879
+    title: 1879-1885
+    location: Valdivia
+    content:
+      - Although he received a five-year sentence for violating laws of public trust,
+        forgery and falsification, he remained incarcerated for six until his death
+        of pneumonia in 1885.
+    thumbnail:
+      image: Valdivia_1884_640_447.png
+      caption: >-
+        Pissis, A. <i>Mapa de la Republica de Chile 7</i>. 1884. (David Rumsey Map Collection)
+    image: ParafTravels_Valdivia_960_arrow.png

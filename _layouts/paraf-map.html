@@ -1,0 +1,75 @@
+---
+layout: page
+stylesheets:
+  - /assets/bootstrap-slider-10.6.1.min.css
+  - /assets/ekko-lightbox.min.css
+scripts:
+  - /assets/javascript/bootstrap-slider-10.6.1.min.js
+  - /assets/javascript/ekko-lightbox.min.js
+---
+{% assign key = page.data_key %}
+{% assign data = site.data.maps[key] %}
+{% assign map_data = data.maps %}
+{% assign legend_data = data.legend %}
+{% assign timeline_stops = map_data | map: 'timeline' %}
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-4">
+      <h2 class="entry-location">{{ map_data.first.location }}</h2>
+      {% for entry in map_data %}
+        {% assign class_name = 'container-fluid paraf-entry' %}
+        {% unless forloop.first %}
+          {% assign class_name = class_name | append: ' hidden' %}
+        {% endunless %}
+
+        {% include maps/paraf-narrative.html entry=entry %}
+      {% endfor %}
+    </div>
+
+    <div class="col-sm-8">
+      <article class="container-fluid">
+        {{ content }}
+      </article>
+
+      <div class="container-fluid">
+        {% include maps/map-display.html map_data=map_data %}
+      </div>
+
+      <div class="container-fluid">
+        {% include maps/timeline-slider.html timeline_stops=timeline_stops %}
+
+        <script>
+          $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+          });
+
+          $(document).ready(function () {
+            var $entryTitle = $('.entry-location')
+            var $sliderEl = $('#timeline-slider')
+            $sliderEl.slider({ value: 0 })
+
+            var elementsForIndex = function (idx) {
+              return {
+                timeline: $('.timeline-map[data-timeline-index=' + idx + ']'),
+                entry: $('.paraf-entry[data-timeline-index=' + idx + ']')
+              }
+            }
+
+            $sliderEl.on('slide', function (slideEvt) {
+              $('.timeline-map, .paraf-entry').addClass('hidden')
+              var idx = slideEvt.value.toString()
+              var location = $('.paraf')
+              var $els = elementsForIndex(idx)
+              $els.timeline.removeClass('hidden')
+              $els.entry.removeClass('hidden')
+
+              $entryTitle.text($els.entry.data('title'))
+            })
+          })
+        </script>
+      </div>
+    </div>
+  </div>
+</div>
