@@ -32,9 +32,9 @@ scripts:
         var $sliderEl = $('#timeline-slider')
         $sliderEl.slider({ value: 0 })
 
-        $sliderEl.on('slide', function (slideEvt) {
+        $sliderEl.on('change', function (slideEvt) {
           $('.timeline-map').addClass('hidden')
-          var idx = slideEvt.value.toString()
+          var idx = slideEvt.value.newValue.toString()
           var $nextEl = $('.timeline-map[data-timeline-index=' + idx + ']')
           $nextEl.removeClass('hidden')
         })

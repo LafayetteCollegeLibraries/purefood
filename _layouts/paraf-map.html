@@ -57,9 +57,9 @@ scripts:
               }
             }
 
-            $sliderEl.on('slide', function (slideEvt) {
+            $sliderEl.on('change', function (slideEvt) {
               $('.timeline-map, .paraf-entry').addClass('hidden')
-              var idx = slideEvt.value.toString()
+              var idx = slideEvt.value.newValue.toString()
               var location = $('.paraf')
               var $els = elementsForIndex(idx)
               $els.timeline.removeClass('hidden')
