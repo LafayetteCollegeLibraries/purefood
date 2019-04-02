@@ -27,20 +27,6 @@ scripts:
 
   <div class="container-fluid">
     {% include maps/timeline-slider.html timeline_stops=timeline_stops %}
-
-    <script>
-      $(document).ready(function () {
-        var $sliderEl = $('#timeline-slider')
-        $sliderEl.slider({ value: 0 })
-
-        $sliderEl.on('change', function (slideEvt) {
-          $('.timeline-map').addClass('hidden')
-          var idx = slideEvt.value.newValue.toString()
-          var $nextEl = $('.timeline-map[data-timeline-index=' + idx + ']')
-          $nextEl.removeClass('hidden')
-        })
-      })
-    </script>
   </div>
 
   <div class="container-fluid">
