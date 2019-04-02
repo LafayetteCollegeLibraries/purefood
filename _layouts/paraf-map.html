@@ -1,11 +1,12 @@
 ---
 layout: page
 stylesheets:
-  - /assets/bootstrap-slider-10.6.1.min.css
-  - /assets/ekko-lightbox.min.css
+  - /assets/css/bootstrap-slider-10.6.1.min.css
+  - /assets/css/ekko-lightbox.min.css
 scripts:
-  - /assets/javascript/bootstrap-slider-10.6.1.min.js
-  - /assets/javascript/ekko-lightbox.min.js
+  - /assets/js/bootstrap-slider-10.6.1.min.js
+  - /assets/js/ekko-lightbox.min.js
+  - /assets/js/timeline-slider.js
 ---
 {% assign key = page.data_key %}
 {% assign data = site.data.maps[key] %}
@@ -44,30 +45,6 @@ scripts:
             event.preventDefault();
             $(this).ekkoLightbox();
           });
-
-          $(document).ready(function () {
-            var $entryTitle = $('.entry-location')
-            var $sliderEl = $('#timeline-slider')
-            $sliderEl.slider({ value: 0 })
-
-            var elementsForIndex = function (idx) {
-              return {
-                timeline: $('.timeline-map[data-timeline-index=' + idx + ']'),
-                entry: $('.paraf-entry[data-timeline-index=' + idx + ']')
-              }
-            }
-
-            $sliderEl.on('change', function (slideEvt) {
-              $('.timeline-map, .paraf-entry').addClass('hidden')
-              var idx = slideEvt.value.newValue.toString()
-              var location = $('.paraf')
-              var $els = elementsForIndex(idx)
-              $els.timeline.removeClass('hidden')
-              $els.entry.removeClass('hidden')
-
-              $entryTitle.text($els.entry.data('title'))
-            })
-          })
         </script>
       </div>
     </div>

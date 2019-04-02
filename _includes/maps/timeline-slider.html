@@ -6,14 +6,18 @@
 {%- endfor -%}
 <div class="row">
   <div class="col-xs-1">
-    <!-- play btn -->
+    <button type="button" id="timeline-slider--play-pause" class="btn btn-block">
+      <span class="glyphicon glyphicon-play"></span>
+    </button>
   </div>
 
   <div class="col-xs-1">
-    <!-- backwards btn -->
+    <button type="button" id="timeline-slider--backward" class="btn btn-block" disabled="true">
+      <span class="glyphicon glyphicon-backward"></span>
+    </button>
   </div>
 
-  <div class="col-xs-10 text-center">
+  <div class="col-xs-9 text-center">
     {% assign labels = timeline_stops | join: '","' %}
     <input
       id="timeline-slider"
@@ -25,5 +29,11 @@
       data-slider-tooltip="hide"
       style="width: inherit;"
     />
+  </div>
+
+  <div class="col-xs-1">
+    <button type="button" id="timeline-slider--forward" class="btn btn-block">
+      <span class="glyphicon glyphicon-forward"></span>
+    </button>
   </div>
 </div>
