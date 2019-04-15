@@ -2,7 +2,7 @@ $(document).ready(function () {
   // constants
   var PLAYING = 'playing',
       PAUSED = 'paused',
-      LOOP_INTERVAL = 1000;
+      LOOP_INTERVAL = 1.5; // in seconds
 
   // els
   var $playPause = $('#timeline-slider--play-pause'),
@@ -21,7 +21,7 @@ $(document).ready(function () {
   $sliderEl.slider('setValue', 0);
 
   // handle our events
-  $playPause.on('click', handleClick);
+  $playPause.on('click', handlePlayClick);
   $backward.on('click', decrementIndex);
   $forward.on('click', incrementIndex);
   $sliderEl.on('change', handleSlideEvent);
@@ -33,7 +33,7 @@ $(document).ready(function () {
     };
   }
 
-  function handleClick () {
+  function handlePlayClick () {
     var playing = $(this).data('status') === PLAYING;
 
     if (playing) { togglePause(); }
@@ -99,7 +99,7 @@ $(document).ready(function () {
 
     maybeReset();
 
-    interval = setInterval(loop, LOOP_INTERVAL);
+    interval = setInterval(loop, (LOOP_INTERVAL * 1000));
   }
 
   function togglePause () {
