@@ -2,6 +2,7 @@
 layout: map
 data_key: margarine-exports
 title: Oleomargarine Exports
+permalink: /maps/margarine-exports/
 ---
 
 These maps show the growth in exports of finished oleomargarine

@@ -2,6 +2,7 @@
 layout: map
 title: Oleomargarine Legislation
 data_key: margarine-legislation
+permalink: /maps/margarine-legislation/
 ---
 
 These maps show the spread of state-level oleomargarine regulation

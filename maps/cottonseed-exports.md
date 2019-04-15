@@ -2,6 +2,7 @@
 layout: map
 data_key: cottonseed-exports
 title: Cottonseed Oil Exports
+permalink: /maps/cottonseed-exports/
 ---
 
 These maps show the export flow of cottonseed oil from U.S. ports

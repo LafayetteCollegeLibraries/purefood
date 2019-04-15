@@ -2,6 +2,7 @@
 layout: map
 data_key: oil-exports
 title: Oleo Oil Exports
+permalink: /maps/oil-exports/
 ---
 
 These maps show the growth in exports of raw oleo oil from the

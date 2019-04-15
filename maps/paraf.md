@@ -2,6 +2,7 @@
 layout: paraf-map
 data_key: paraf
 title: Paraf's Itinerary
+permalink: /maps/paraf/
 ---
 
 This is the Paraf Itinerary. Chapter 1 of the book includes

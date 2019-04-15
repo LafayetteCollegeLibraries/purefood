@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Copyright
+permalink: /copyright/
 ---
 
 Public Domain

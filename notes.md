@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Notes on Data Sets
+permalink: /notes/
 ---
 
 Paraf's Itinerary

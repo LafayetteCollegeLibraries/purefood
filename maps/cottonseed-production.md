@@ -2,6 +2,7 @@
 layout: map
 title: Butter and Oleomargarine Production
 data_key: cottonseed-production
+permalink: /maps/cottonseed-production/
 ---
 
 These maps illustrate the changing geography of cottonseed oil.

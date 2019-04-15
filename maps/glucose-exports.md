@@ -2,6 +2,7 @@
 layout: map
 data_key: glucose-exports
 title: Glucose Exports
+permalink: /maps/glucose-exports/
 ---
 
 These maps show trends in the export flow of glucose from United

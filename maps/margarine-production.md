@@ -2,6 +2,7 @@
 layout: map
 title: Butter and Oleomargarine Production
 data_key: margarine-production
+permalink: /maps/margarine-production/
 ---
 
 These maps show the growth of butter production on a state-by-state
