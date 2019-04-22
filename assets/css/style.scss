@@ -1,4 +1,5 @@
 ---
+# need to keep this here to compile as css
 ---
 html,
 body {
@@ -12,19 +13,6 @@ body {
   font-size: 16px;
 }
 
-a {
-  color: #4ea8d8;
-
-  &:hover, &:focus {
-    color: #1d5f83;
-  }
-}
-
-#title h1 {
-  color: #e8e6e2;
-  font-weight: bold;
-}
-
 h1,
 h2,
 h3,
@@ -34,7 +22,30 @@ h6 {
   font-family: "Lato", sans-serif;
 }
 
-.Chapter {
+a {
+  color: #4ea8d8;
+
+  &:hover, &:focus {
+    color: #1d5f83;
+  }
+}
+
+figure img {
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+figcaption {
+  font-size: 1.25rem;
+  font-style: italic;
+}
+
+#title h1 {
+  color: #e8e6e2;
+  font-weight: bold;
+}
+
+.chapter {
   h2 small {
     margin-left: 2rem;
   }
@@ -52,22 +63,7 @@ h6 {
   padding-right: 10px;
 }
 
-.Footer {
-  &.container-fluid {
-    padding: 0;
-  }
-
- .navbar {
-    border-radius: 0;
-    margin-bottom: 0;
-  }
-
-  .navbar-nav li {
-    text-align: center;
-  }
-}
-
-.HeaderContainer {
+.header-container {
   background-color: #ffffff;
   background-image: url("/assets/images/map_header.png");
   width: 100%;
@@ -88,7 +84,8 @@ h6 {
 #navbar-container {
   background-image: linear-gradient(to bottom, #545454, #333333);
   border: medium none;
-  border-radius: 0; }
+  border-radius: 0;
+}
 
 #navbar-menu {
   height: 64px;
@@ -136,10 +133,11 @@ h6 {
   float: inherit;
 }
 
-.NavContainer {
+.nav-container {
   background-image: linear-gradient(to bottom, #545454, #333333);
   border: none;
-  border-radius: 0; }
+  border-radius: 0;
+}
 
 #title .container-fluid {
   padding-left: 20px;
@@ -179,16 +177,6 @@ h6 {
 
 .map-legend-container img {
   width: 100%;
-}
-
-figure img {
-  margin-bottom: 1rem;
-  width: 100%;
-}
-
-figcaption {
-  font-size: 1.25rem;
-  font-style: italic;
 }
 
 .slider-tick-label {
