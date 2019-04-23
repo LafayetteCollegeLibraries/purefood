@@ -2,7 +2,7 @@
 layout: home
 ---
 
-This is the digital map companion to _Pure Adulteration: Cheating on Nature in the Age of Manufactured Food_ (University of Chicago Press, 2019).
+This is the digital map companion to **_Pure Adulteration: Cheating on Nature in the Age of Manufactured Food_** (University of Chicago Press, 2019).
 The book is set between the dawn of manufactured food in the mid-1800s and
 the onset of modern food policy in the early 1900s, a period in food and
 agricultural history known, among other things, as the Era of Adulteration.
