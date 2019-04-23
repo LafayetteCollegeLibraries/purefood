@@ -18,16 +18,20 @@ layout: default
   <section id="content">
     <div class="container-fluid">
       <div class="row">
-        <figure class="col-xs-4">
-          <img src="/assets/images/berghaus_hydra.png">
+        <figure class="col-sm-3">
+          <img src="/assets/images/book_cover.jpg" />
+        </figure>
+
+        <div class="col-sm-6 text-justify">
+          {{ content }}
+        </div>
+
+        <figure class="col-sm-3">
+          <img src="/assets/images/berghaus_hydra.png" />
           <figcaption>
             A. Berghaus, “The Hydra-Headed Monster of Adulteration.” Rural New Yorker, May 1887
           </figcaption>
         </figure>
-
-        <div class="col-xs-8">
-          {{ content }}
-        </div>
       </div>
     </div>
   </section>
