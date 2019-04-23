@@ -1,3 +1,5 @@
+horizontal_legend:
+  src: /assets/images/maps/cottonseed-exports/cso_legend.jpg
 maps:
   - image: cottonseed_oil_exports_1880.jpg
     timeline: 1880

@@ -14,7 +14,7 @@ scripts:
 
 <div class="container-fluid">
   <div class="container-fluid">
-    <div class="col-sm-{% if legend_data %}10{% else %}12{% endif %}">
+    <div class="col-sm-{% if legend_data %}10{% else %}12{% endif %} text-center">
       {% include maps/map-display.html map_data=map_data %}
     </div>
 
@@ -24,6 +24,15 @@ scripts:
     </div>
     {%- endif -%}
   </div>
+
+  {%- if data.horizontal_legend -%}
+  <div class="row">
+    <div class="col-sm-offset-1 col-sm-10">
+      <img class="img-responsive" src="{{ data.horizontal_legend.src }}" />
+    </div>
+  </div>
+
+  {%- endif -%}
 
   <div class="container-fluid">
     {% include maps/timeline-slider.html timeline_stops=timeline_stops %}
