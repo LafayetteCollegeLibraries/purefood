@@ -20,6 +20,11 @@ h4,
 h5,
 h6 {
   font-family: "Lato", sans-serif;
+  font-weight: bold;
+
+  small {
+    font-weight: bold;
+  }
 }
 
 a {
@@ -205,4 +210,9 @@ figcaption {
 .timeline-map {
   margin: auto;
   max-height: 1600px;
+}
+
+.section-title {
+  font-style: italic;
+  font-weight: 100;
 }

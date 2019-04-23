@@ -28,6 +28,9 @@
     - url: /paraf
       text: View the Maps
 
+- section:
+    title: "Part I: The Culture of Adulteration"
+
 - heading: Chapter 2
   thumbnail: ch2punchdropofwater.jpg
   title: Surfaces and Interiors
@@ -52,6 +55,9 @@
     between the surface and interior of foods. The relevant border of this chapter is the one between
     inside and outside the body at three levels of a Russian nesting doll, that of the body politic, the
     household body of kitchens and homes, and the individual body.
+
+- section:
+    title: "Part II: The Geography of Adulteration"
 
 - heading: Chapter 4
   thumbnail: ch4jurgensmargarine.jpg
@@ -105,6 +111,9 @@
   links:
     - url: /glucose-exports
       text: View the Maps
+
+- section:
+    title: "Part III: The Analysis of Adulteration"
 
 - heading: Chapter 7
   thumbnail: ch7darbychemists.jpg

@@ -1,0 +1,28 @@
+<div class="chapter">
+  <h2>
+    {{ data.heading }}
+    {% if data.title %}
+    <small>{{ data.title }}</small>
+    {%- endif -%}
+  </h2>
+
+  <div class="container-fluid">
+    <div class="media">
+      <div class="media-left">
+        <img
+          class="media-object"
+          src="/assets/images/chapters/{{ data.thumbnail }}"
+          style="width:128px"
+        />
+      </div>
+      <div class="media-body">
+        <p>{{ data.content | markdownify }}</p>
+        {% if data.links %}
+        {%- for link in data.links -%}
+        <p><a href="{{ link.url }}">{{ link.text }}</a>
+        {%- endfor -%}
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</div>
