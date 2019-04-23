@@ -48,7 +48,7 @@ Paraf's Itinerary
 
 Oleomargarine Legislation
 -------------------------
-- Clark J.H. and Plishka, M. 2014. _Oleomargarine Regulatory State Legislation, 1877-1899 - Shapefile._
+- Clark, J.H. and Plishka, M. 2014. _Oleomargarine Regulatory State Legislation, 1877-1899 - Shapefile._
   Easton, PA: Digital Scholarship Services, David B. Skillman Library, Lafayette College.
 - _Historical state boundaries used in the creation of this Shapefile are from:_
   - Minnesota Population Center. _National Historical Geographic Information System: Version 2.0._
@@ -59,7 +59,7 @@ Butter Production
 - Clark, J.H. and Plishka, M. 2014. _Oleomargarine Production Facilities in the
   United States, 1880 -1900 - Shapefile._ Easton, PA: Digital Scholarship Services,
   David B. Skillman Library, Lafayette College.
-- Clark J.H. and Plishka, M. 2014. _United States Butter Production, 1870-1900 -Shapefile._
+- Clark, J.H. and Plishka, M. 2014. _United States Butter Production, 1870-1900 -Shapefile._
   Easton, PA: Digital Scholarship Services, David B. Skillman Library, Lafayette College.
 - _Historical state boundaries used in the creation of this Shapefile are from:_
   - Minnesota Population Center. _National Historical Geographic Information System: Version 2.0._
@@ -70,7 +70,7 @@ Cottonseed Oil Production
 - Siczewicz, P., Kelley, E. & Long J.H. 2011. "U.S. Historical States and Territories.
   Edition 2.0. Digital-Shapefiles" in _Atlas of Historical County Boundaries._
   John H. Long Ed. Chicago: Newberry Library. [https://publications.newberry.org/ahcbp/](https://publications.newberry.org/ahcbp/)
-- Clark J.H. and Plishka, M. 2014. _Cottonseed Oil Crushing Mills, United States, 1860-1900 - Shapefile._
+- Clark, J.H. and Plishka, M. 2014. _Cottonseed Oil Crushing Mills, United States, 1860-1900 - Shapefile._
   Easton, PA: Digital Scholarship Services, David B. Skillman Library, Lafayette College.
 - Thomas, William G. _Historical GIS: The 1861-1870 Railroad System in America, State
   and National Shapefiles_ in Railroads and the Making of Modern America. Lincoln, NE:

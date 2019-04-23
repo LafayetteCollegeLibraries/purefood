@@ -26,7 +26,7 @@ in understanding a newly complex food system.
 
 The maps at this companion site help illustrate the changing circumstances
 of late-nineteenth century food systems. They begin with a tour of one of the
-century’s most notorious con man, [the Chevalier Alfred Paraf](/paraf).
+century’s most notorious con men, [the Chevalier Alfred Paraf](/paraf).
 They then provide visual access to [changes in legislation](/margarine-legislation),
 commodity production for [oleomargarine](/margarine-production) and
 [cottonseed oil](/cottonseed-production), and export patterns for three
