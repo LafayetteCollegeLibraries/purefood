@@ -1,8 +1,8 @@
 legend:
-  - image: /assets/images/maps/margarine-production/OleoProd_legend_normal.png
+  - image: /assets/images/maps/margarine-production/OleoProd_legend_normal.jpg
   - title: Butter Production
     values:
-      - image: /assets/images/maps/margarine-production/butter_prod_class_null.png
+      - image: /assets/images/maps/margarine-production/butter_prod_class_null.jpg
         text: No Data
       - color: "#ffffe5"
         text: Less than 100,000 lbs.
@@ -16,11 +16,11 @@ legend:
         text: Over 90 million lbs.
 
 maps:
-  - image: ButterProd_1870_2304.png
+  - image: ButterProd_1870_2304.jpg
     timeline: 1870
-  - image: ButterOleoProd_1880_v2_2304.png
+  - image: ButterOleoProd_1880_v2_2304.jpg
     timeline: 1880
-  - image: ButterOleoProd_1890_v2_2304.png
+  - image: ButterOleoProd_1890_v2_2304.jpg
     timeline: 1890
-  - image: ButterOleoProd_1900_v2_2304.png
+  - image: ButterOleoProd_1900_v2_2304.jpg
     timeline: 1900

@@ -8,10 +8,10 @@ maps:
         in the city, leading manufacturing efforts in the dye industry. His father
         was an "extensive calico printing works"
     thumbnail:
-      image: Mulhouse_101_1024.png
+      image: Mulhouse_101_1024.jpg
       caption: >-
         Edmond, C. <i>Plan de la Ville de Mulhouse.</i> 1844. (Bibliothèque nationale de France)
-    image: ParafTravels_Mulhouse_960.png
+    image: ParafTravels_Mulhouse_960.jpg
 
   - timeline: 1863
     location: Glasgow
@@ -22,10 +22,10 @@ maps:
         called weld (<em>reseda lutea</em>). The dye didn’t have staying power,
         but investors didn’t know this until Paraf was already on his way back to France.
     thumbnail:
-      image: glasgow_1280.png
+      image: glasgow_1280.jpg
       caption: >-
         Fullarton, A. & Co. <i>City of Glasgow</i>. 1872. (David Rumsey Map Collection)
-    image: ParafTravels_Glasgow_960_arrow.png
+    image: ParafTravels_Glasgow_960_arrow.jpg
 
   - timeline: 1864
     location: Paris
@@ -36,11 +36,11 @@ maps:
         the dye was a legitimate product, but the younger Paraf had stolen the patent
         from a friend and claimed it as his own.
     thumbnail:
-      image: Paris_1869_301_1024.png
+      image: Paris_1869_301_1024.jpg
       caption: >-
         Vuillemin A. & J. Migeon. <i>Paris et son Mur d'Enceinte</i>. 1869.
         (David Rumsey Map Collection)
-    image: ParafTravels_Paris_960_arrow.png
+    image: ParafTravels_Paris_960_arrow.jpg
 
   - timeline: 1867
     location: New York City
@@ -51,10 +51,10 @@ maps:
         dyes and sought an introduction to Prof. Charles Chandler of Columbia
         University. He stayed for a time in current-day Midtown.
     thumbnail:
-      image: NewYorkBrooklyn_1874_inset_640_844.png
+      image: NewYorkBrooklyn_1874_inset_640_844.jpg
       caption: >-
         Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
-    image: ParafTravels_NewYork_960_arrow.png
+    image: ParafTravels_NewYork_960_arrow.jpg
 
   - timeline: 1868b
     title: 1868
@@ -68,10 +68,10 @@ maps:
         The purpose was to "liberate the coloring matter of the madder root…from the
         ligneous matter" so the root’s coloring matter could be used in textile dye processing.
     thumbnail:
-      image: Boston_1874_640_779.png
+      image: Boston_1874_640_779.jpg
       caption: >-
         Colton, G.W. <i>Boston and Adjacent Cities</i>. 1874. (David Rumsey Map Collection)
-    image: ParafTravels_Boston_960_arrow.png
+    image: ParafTravels_Boston_960_arrow.jpg
 
   - timeline: 1868b
     title: 1868
@@ -82,10 +82,10 @@ maps:
         included dinner parties at Delmonico’s and carriage services all over the city.
         He lived at Everett House during this time, at Union Square on 14th St.
     thumbnail:
-      image: NewYorkBrooklyn_1874_inset_640_844.png
+      image: NewYorkBrooklyn_1874_inset_640_844.jpg
       caption: >-
         Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
-    image: ParafTravels_NewYork_960_2_arrow.png
+    image: ParafTravels_NewYork_960_2_arrow.jpg
 
   - timeline: 1869
     location: Providence
@@ -95,11 +95,11 @@ maps:
         received $75,000 after doing a demonstration experiment to show Sprague the
         value of his calico dyes, apparently to Sprague’s satisfaction.
     thumbnail:
-      image: Providence_1881_640_800.png
+      image: Providence_1881_640_800.jpg
       caption: >-
         Walling, H.F. <i>Map of the City of Providence</i>. 1881.
         (Norman B. Leventhal Map Center, Boston Public Library)
-    image: ParafTravels_Providence_960_arrow.png
+    image: ParafTravels_Providence_960_arrow.jpg
 
   - timeline: 1869
     location: New York City
@@ -107,10 +107,10 @@ maps:
       - He set up a business office at No. 42 Broad Street in lower Manhattan after
         his return from New England.
     thumbnail:
-      image: NewYorkBrooklyn_1874_inset_640_844.png
+      image: NewYorkBrooklyn_1874_inset_640_844.jpg
       caption: >-
         Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
-    image: ParafTravels_NewYork_960_3_arrow.png
+    image: ParafTravels_NewYork_960_3_arrow.jpg
 
   - timeline: 1869
     title: 1869-1870
@@ -120,11 +120,11 @@ maps:
         calico works. By the time it was ready for operations, Sprague found out
         that Paraf’s process would not work to scale. Paraf then left to return to NYC.
     thumbnail:
-      image: Providence_1881_640_800.png
+      image: Providence_1881_640_800.jpg
       caption: >-
         Walling, H.F. <i>Map of the City of Providence</i>. 1881.
         (Norman B. Leventhal Map Center, Boston Public Library)
-    image: ParafTravels_Providence_960_arrow.png
+    image: ParafTravels_Providence_960_arrow.jpg
 
   - timeline: 1870
     title: 1870-73
@@ -142,20 +142,20 @@ maps:
         investors learned Paraf had pilfered the patent from Mege-Mouries.
       - During this period, he moved farther uptown to live at 49th St. and 5th Ave.
     thumbnail:
-      image: NewYorkBrooklyn_1874_inset_640_844.png
+      image: NewYorkBrooklyn_1874_inset_640_844.jpg
       caption: >-
         Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
-    image: ParafTravels_NewYork_960_4_arrow.png
+    image: ParafTravels_NewYork_960_4_arrow.jpg
 
   - timeline: 1873
     location: Cleveland
     content:
       - Reports from Cleveland indicate that Paraf stopped in the city on his train route out West.
     thumbnail:
-      image: Cleveland_1872_640_471.png
+      image: Cleveland_1872_640_471.jpg
       caption: >-
         Walling, H.F., et al. <i>Cleveland, Cayahoga Co.</i> 1872. (David Rumsey Map Collection)
-    image: ParafTravels_Cleveland_960_arrow.png
+    image: ParafTravels_Cleveland_960_arrow.jpg
 
   - timeline: 1873
     location: San Francisco
@@ -166,10 +166,10 @@ maps:
       - The next summer, he was arrested on August 4, 1874 with an associate "under an
         indictment for forgery."
     thumbnail:
-      image: SanFrancisco_1884_640_784.png
+      image: SanFrancisco_1884_640_784.jpg
       caption: >-
         Gray, O.W. <i>San Francisco</i>. 1884. (David Rumsey Map Collection)
-    image: ParafTravels_SanFrancisco_960_arrow.png
+    image: ParafTravels_SanFrancisco_960_arrow.jpg
 
   - timeline: 1875
     title: September 1875
@@ -178,10 +178,10 @@ maps:
       - Paraf travelled to Nevada as an investor in the Nevada Ore Extracting Co. He would
         buy 175 shares of stock.
     thumbnail:
-      image: VirginiaCity_1875_640_526.png
+      image: VirginiaCity_1875_640_526.jpg
       caption: >-
         Koch, A. Bird’s eye view of Virginia City. 1875. (Library of Congress)
-    image: ParafTravels_VirginiaCity_960_arrow.png
+    image: ParafTravels_VirginiaCity_960_arrow.jpg
 
   - timeline: 1876
     location: San Francisco
@@ -189,10 +189,10 @@ maps:
       - In February 1876, the "Oleaginous Paraf" left town for "more congenial climes,"
         according to the San Francisco Daily Morning Call.
     thumbnail:
-      image: SanFrancisco_1884_640_784.png
+      image: SanFrancisco_1884_640_784.jpg
       caption: >-
         Gray, O.W. <i>San Francisco</i>. 1884. (David Rumsey Map Collection)
-    image: ParafTravels_SanFrancisco_960_2_arrow.png
+    image: ParafTravels_SanFrancisco_960_2_arrow.jpg
 
 
   - timeline: 1877
@@ -205,10 +205,10 @@ maps:
       - <h4>1879</h4>In October of 1879, he was convicted in court, guilty of violating
         Articles 167 and 468 of the Chilean Penal Code.
     thumbnail:
-      image: Santiago_1875_640_741.png
+      image: Santiago_1875_640_741.jpg
       caption: >-
         Ansart, E. <i>Plano De Santiago</i>. 1875. (David Rumsey Map Collection)
-    image: ParafTravels_Santiago_960_arrow.png
+    image: ParafTravels_Santiago_960_arrow.jpg
 
   - timeline: 1879
     title: 1879-1885
@@ -218,7 +218,7 @@ maps:
         forgery and falsification, he remained incarcerated for six until his death
         of pneumonia in 1885.
     thumbnail:
-      image: Valdivia_1884_640_447.png
+      image: Valdivia_1884_640_447.jpg
       caption: >-
         Pissis, A. <i>Mapa de la Republica de Chile 7</i>. 1884. (David Rumsey Map Collection)
-    image: ParafTravels_Valdivia_960_arrow.png
+    image: ParafTravels_Valdivia_960_arrow.jpg
