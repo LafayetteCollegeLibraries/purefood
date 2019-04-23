@@ -1,141 +1,149 @@
 # Content for the Table of Contents page
 ---
-- chapter: 1
+- heading: Prologue
+  thumbnail: prologue-bookcover-detail.jpg
+  content: >-
+    There is no such thing as a pure or adulterated food on its own. We have to make it so. Pure food
+    comes from pure people, it is a matter of trust and confidence. This book is about how people
+    drew the line between pure and adulterated during the pure food crusades of the later 1800s.
+    There is (and was) no natural, pre-human distinction that we can simply uncover and enforce; we
+    have to decide where to draw it and how to police it. Today’s world is different from that of our
+    nineteenth century forbearers in so many ways, but the challenge of policing the difference
+    between acceptable and unacceptable practices remains central to daily decisions about the foods
+    we eat, how we produce them, and what choices we make when buying them. The legacy of the
+    pure food crusades resonates with us to this day, having put a regulatory framework in place that
+    still structures our approach to patrolling the border between pure and adulterated.
+- heading: Chapter 1
   thumbnail: ch1parafappendix.jpg
   title: The Appearance of Being Earnest
   content: >-
-    The introduction is framed around the story of Alfred Paraf, a dashing
-    Frenchman known upon his 1885 death as "foremost in the ranks of the
-    world's swindlers." With chemical training from his dye-making father
-    in the Alsace town of Mulhouse, a cache of patented inventions, and,
-    to quote the <i>New York Times</i>, "the suave address of a gentleman,"
-    Paraf's story of trans-Atlantic charlatanism—from France to Scotland to
-    New York to San Francisco to Chile—begins the story of pure and
-    adulterated foods with reference to trust, deception, and the confusing
-    appearance of reality in a new world of manufactured goods.
+    The introduction brings us the story of Alfred Paraf, a dashing Frenchman known upon his 1885
+    death as "foremost in the ranks of the world's swindlers." With chemical training from his dye-
+    making father in the Alsatian town of Mulhouse, a cache of patented inventions, and, to quote
+    the _New York Times_, "the suave address of a gentleman," Paraf's story of trans-Atlantic
+    charlatanism—from France to Scotland to New York to San Francisco to Chile—begins the story
+    of pure and adulterated foods with reference to trust, deception, and the confusing appearance of
+    reality in a new world of manufactured goods.
   links:
     - url: /paraf
       text: View the Maps
 
-- chapter: 2
-  thumbnail: ch2punchdropofwater.png
+- heading: Chapter 2
+  thumbnail: ch2punchdropofwater.jpg
   title: Surfaces and Interiors
   content: >-
-    As the first of two chapters in Part I: The Culture of Adulteration,
-    this chapter canvasses the deep history of adulteration as a set up to
-    debates about character, sincerity, and authenticity in the mid-nineteenth
-    century. The point is that cultural distances between people were as
-    dramatic as geographical distances between producers and consumers of
-    food. The problem of knowing the difference between the surface of a
-    food and its interior, "real" identity was shaped in part by the
-    problem of knowing the difference between the surface of a person
-    and their true interior character.
+    As the first of two chapters in _Part I: The Culture of Adulteration_, this canvasses the deep history
+    of adulteration to set up the debates about character, sincerity, and authenticity that suffused the
+    mid-nineteenth century. Distance matters as a way to understand the confusion and mistrust, but
+    cultural distances between people were as dramatic as geographical distances between producers
+    and consumers of food. The problem of knowing the difference between the surface of a food
+    and its interior, "real" identity was shaped in part by the problem of knowing the difference
+    between the surface of a person and their true interior character.
 
-- chapter: 3
-  thumbnail: ch3grocercounter.png
-  title: Households and Grocers
+- heading: Chapter 3
+  thumbnail: ch3grocercounter.jpg
+  title: Household, Grocer &amp; Trust
   content: >-
-    Adulteration is age old, but changes in the later nineteenth century
-    gave the problems a different public status. One of the more relevant
-    ones was the new space of food purchasing, particularly a nascent
-    urban grocers' empire. The grocers' market was a front line in the
-    battle against adulteration, a place of interaction in the network
-    between producers and consumers, and a space of exchange between
-    trusted and suspicious. The relevant border of the second chapter
-    was between the surface and interior of foods. This chapter looks
-    to the boundary between inside and outside the body at the level
-    of the body politic, the household body of kitchens and homes, and
-    the individual body.
+    Adulteration is age old, but a multitude of changes in the later nineteenth century gave the
+    problems a different public status. New means of food purchasing, particularly a nascent grocers'
+    empire, were key in this regard. The urban grocers' market was a front line in the battle against
+    adulteration. It was a place of interaction in the network between producers and consumers and a
+    space of exchange between the trusted and suspicious. Chapter 2 put its lens on the border
+    between the surface and interior of foods. The relevant border of this chapter is the one between
+    inside and outside the body at three levels of a Russian nesting doll, that of the body politic, the
+    household body of kitchens and homes, and the individual body.
 
-- chapter: 4
-  thumbnail: ch4jurgensmargarine.png
+- heading: Chapter 4
+  thumbnail: ch4jurgensmargarine.jpg
   title: Margarine in a Dairy World
   content: >-
-    This chapter examines oleomargarine and butter to provide the first
-    of three case studies in Part II: The Geography of Adulteration.
-    It details the ways margarine was the product of a changing agricultural
-    landscape. The story of margarine is intricately tied to the history
-    of butter, which means it is about cows and the dairy industry. But
-    it is also tied to cows on the slaughterhouse side of the fence—margarine's
-    beef fat was a byproduct of the packinghouses of Cincinnati and Chicago.
-    The chapter explores the testimony of farmers, dairymen, meatpackers,
-    and grocers as they weighed in on the growing networks of production
-    that tied cities to dairy lands and the Midwest to the east coast,
-    the south, and to export markets around the Atlantic world.
+    This chapter examines oleomargarine and butter as the first of three case studies in _Part II: The
+    Geography of Adulteration_. It details the ways margarine was the product of a changing
+    agricultural landscape. The story of margarine is intricately tied to the history of butter, which
+    means it is about cows and the dairy industry. But it is also tied to cows of the nascent
+    slaughterhouse world—margarine's beef fat was a byproduct of the packinghouses of Cincinnati
+    and Chicago. The chapter thus brings the testimony of farmers, dairymen, meatpackers, and
+    grocers to bear as they weighed in on the growing networks of production tying cities to dairy
+    lands and the Midwest to the east coast, the south, and to export markets around the Atlantic
+    world.
   links:
     - url: /margarine-production
       text: View the Production Maps
     - url: /margarine-exports
       text: View the Export Maps
 
-- chapter: 5
-  thumbnail: ch5cso1900sample.png
-  title: Cottonseed and the Global Oil Trade
+- heading: Chapter 5
+  thumbnail: ch5cso1900sample.jpg
+  title: Oil Without Olives and Lard without Hogs
   content: >-
-    There's no specific invention date for cottonseed oil, but in a
-    Southern post-bellum economy the new profession of the seed crusher
-    extracted oil from formerly discarded cottons seeds for what they called
-    "the Cinderella of the New South." It was the neglected stepchild now
-    shining for its economic potential. That potential first came as a
-    substitute for olive oil, where southern crushers brokered deals with
-    Italian olive growers, who then sent "pure" olive oil back to the ports
-    of New York. The cottonseed crushers also developed supply networks with
-    meatpackers in Chicago, who used it as a lard substitute. This chapter
-    draws the geography of the upstart adulterant by mapping the new
-    relationships between southern cotton fields, Midwestern packinghouses,
-    and global markets.
+    In a Southern post-bellum economy, the new profession of the seed crusher extracted oil from
+    formerly discarded cottons seeds for what they called "the Cinderella of the New South." It was
+    the neglected stepchild now shining for its economic potential. That potential first came as a
+    substitute for olive oil, where southern crushers brokered deals with Italian olive growers, who
+    then mixed it with their product and sent "pure" olive oil back to the ports of New York. The
+    cottonseed crushers also developed supply networks with meatpackers in Chicago, who used it as
+    a lard substitute. This chapter draws the geography of the upstart adulterant by mapping the new
+    relationships between southern cotton fields, Midwestern packinghouses, and global markets.
   links:
     - url: /cottonseed-production
       text: View the Production Maps
     - url: /cottonseed-exports
       text: View the Export Maps
-- chapter: 6
-  thumbnail: ch6ourmutualfrienddetail.png
-  title: Glucose and Fake Sugar
+
+- heading: Chapter 6
+  thumbnail: ch6ourmutualfrienddetail.jpg
+  title: Glucose in the Empire of Sugar
   content: >-
-    The saga of "Professor" Henry Friend's Electric Sugar Refining Company angered
-    investors and bemused readers in the 1880s. Friend was a swindler. He sold
-    sweetener made from starches in a process that he never explained to his
-    investors, claiming secrecy, an Edisonian connection, and fear of theft. After
-    his scam was exposed in 1889, newspapers raced to compare it to those of the
-    wily Alfred Paraf. Producers began to call the product "glucose" at a time
-    before the term would refer to a monosaccharide known as blood sugar. This
-    chapter uses Friend's con to frame a story mapping the geography of fake sugar
-    and sweetener production, tracking their production, distribution and status
-    in the landscape of adulteration.
+    The saga of "Professor" Henry Friend's Electric Sugar Refining Company angered investors and
+    bemused readers in the 1880s. Friend was a swindler. He sold sweetener made from starches in a
+    process that he never explained to his investors, claiming secrecy, an Edisonian connection, and
+    fear of theft. After his scam was exposed in 1889, newspapers raced to compare it to those of the
+    wily Alfred Paraf. Producers would call the product "glucose" at a time before the term referred
+    to a monosaccharide known as blood sugar. This chapter uses Friend's con as an entry to map the
+    geography of fake sugar and sweetener production, tracking their production, distribution and
+    status in the landscape of adulteration.
   links:
     - url: /glucose-exports
       text: View the Maps
 
-- chapter: 7
+- heading: Chapter 7
   thumbnail: ch7darbychemists.jpg
   title: Analysis as Border Patrol
   content: >-
-    This is first of two chapters of Part III: The Analysis of Adulteration. It
-    puts the focus of pure food debates on the chemists, analysts, and other public
-    health officials who responded to the proliferation of suspected adulteration.
-    Chemists and practical scientists responded to changing agricultural patterns
-    and commercial endeavors in articles, ads, and analyst exposés from journals
-    and trade papers like <i>The Analyst</i> (in the UK), <i>The American Analyst</i>,
-    and <i>The Spice Mill</i>; papers like <i>American Grocer</i>; and domestic
-    science contributions in <i>Godey's</i>, <i>Ladies' Home Journal</i>, and
-    <i>Good Housekeeping</i>. The chapter looks to the regional and household scales
-    to place the ambitions of chemical analysts into a world of domestic chemistry
-    and everyday life, the world where food purchase, preparation, and eating engaged
-    with and prompted adulteration debates.
+    This is first of two chapters of _Part III: The Analysis of Adulteration_. It puts the focus of pure
+    food debates on the chemists, analysts, and other public health officials who responded to the
+    proliferation of suspected adulteration. Chemists and public health analysts responded to
+    changing agricultural patterns and commercial endeavors in articles, ads, and exposés in journals
+    and trade papers, grocer’s publications, and domestic science magazines. The chapter looks to
+    the regional and household scales to place the ambitions of chemical analysts into a world of
+    domestic chemistry and everyday life, the world where housewives, families, chemists, and
+    government officials sought to police the legitimacy of food purchases, preparation, and eating in
+    a time of adulteration fears.
 
-- chapter: 8
+- heading: Chapter 8
   thumbnail: ch8olddocwiley.jpg
-  title: Purity, a Scientific Concept
+  title: Food and the Government Chemist
   content: >-
-    This chapter telescopes out to a broader political level to augment Chapter 7's
-    attention to commercial-level chemistry. It brings the main narrative to a close
-    in the early 1900s, when federal-level authority of scientific analysis and quantitative
-    measures of food followed from assumptions about food health, purity, and adulteration
-    of the prior half century. Here we get to Upton Sinclair, to the ultimate passage of
-    a pure food bill, and to the bureaucratic and institutional success of the
-    Progressive Era in the establishment of the eventual FDA (formed in the 1920s as an
-    outcome of the 1906 law). It folds the federal efforts together with the new consumer
-    world of grocers, fields, and foods. By 1906, what mattered was not a food's environmental
-    cultivation (an embodied process) but the fidelity of the chemically detected items on a
+    Where Chapter 7 takes the regional and household scales at its focus, this one telescopes out to a
+    broader political level to attend to commercial-level chemistry. It brings the main narrative to a
+    close in the early 1900s, when federal-level authority of scientific analysis and quantitative
+    measures of food followed from assumptions about food health, purity, and adulteration of the
+    prior half century. Here we get Upton Sinclair, the ultimate passage of a pure food bill, and the
+    bureaucratic and institutional success of the Progressive Era in the establishment of the eventual
+    FDA. The chapter folds the federal efforts together with the new consumer world of grocers,
+    agricultural fields, and foods. By 1906, what mattered was not a food's environmental cultivation
+    (a process embodied by agrarian labor) but the fidelity of the chemically detected items on a
     label to the item inside (a product-based assessment). Purity had become a scientific concept.
+
+- heading: Epilogue
+  thumbnail: epilogue-olive-detail.jpg
+  title: The Persistence of Adulteration
+  content: >-
+    Conditions change, adulteration remains. It was a problem in the past, it is a problem today, and
+    it will be a problem of public concern tomorrow. This is mainly because our terms for what
+    counts as "pure" change with political and cultural conditions, as do our techniques for patrolling
+    the border between a purity and adulteration. More important for a healthier future is to engage
+    with the environmental process of agriculture and food production, to create ways of broadening
+    the experience of food beyond consumer metrics alone, and to build attention to culinary,
+    ecological, and other ethical factors in our debates about organic principles, genetic
+    modification, additives, and synthetic chemical processing.

@@ -9,7 +9,7 @@ layout: page
 {%- for data in chapters -%}
 <div class="chapter">
   <h2>
-    Chapter {{ data.chapter }}
+    {{ data.heading }}
     {% if data.title %}
     <small>{{ data.title }}</small>
     {%- endif -%}
