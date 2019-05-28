@@ -26,13 +26,13 @@ in understanding a newly complex food system.
 
 The maps at this companion site help illustrate the changing circumstances
 of late-nineteenth century food systems. They begin with a tour of one of the
-century’s most notorious con men, [the Chevalier Alfred Paraf](/paraf).
-They then provide visual access to [changes in legislation](/margarine-legislation),
-commodity production for [oleomargarine](/margarine-production) and
-[cottonseed oil](/cottonseed-production), and export patterns for three
-contentious adulterants of the era, [oleomargarine](/margarine-exports)
-(and [oleo oil](/oil-exports)), [cottonseed oil](/cottonseed-exports),
-and [glucose ("grape-sugar")](/glucose-exports). [The Table of Contents](/chapters)
+century’s most notorious con men, [the Chevalier Alfred Paraf](/maps/paraf).
+They then provide visual access to [changes in legislation](/maps/margarine-legislation),
+commodity production for [oleomargarine](/maps/margarine-production) and
+[cottonseed oil](/maps/cottonseed-production), and export patterns for three
+contentious adulterants of the era, [oleomargarine](/maps/margarine-exports)
+(and [oleo oil](/maps/oil-exports)), [cottonseed oil](/maps/cottonseed-exports),
+and [glucose ("grape-sugar")](/maps/glucose-exports). [The Table of Contents](/chapters)
 provides further summaries of each chapter of the book and links to
 relevant supporting maps. [A Notes page](/notes) provides references to
 original GIS map production and the data used to build those maps.
