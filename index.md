@@ -2,7 +2,7 @@
 layout: home
 ---
 
-This is the digital map companion to **_Pure Adulteration: Cheating on Nature in the Age of Manufactured Food_** (University of Chicago Press, 2019).
+This is the digital map companion to [**_Pure Adulteration: Cheating on Nature in the Age of Manufactured Food_**][book_url] (University of Chicago Press, 2019).
 The book is set between the dawn of manufactured food in the mid-1800s and
 the onset of modern food policy in the early 1900s, a period in food and
 agricultural history known, among other things, as the Era of Adulteration.
@@ -36,3 +36,5 @@ and [glucose ("grape-sugar")](/maps/glucose-exports). [The Table of Contents](/c
 provides further summaries of each chapter of the book and links to
 relevant supporting maps. [A Notes page](/notes) provides references to
 original GIS map production and the data used to build those maps.
+
+[book_url]: https://www.press.uchicago.edu/ucp/books/book/chicago/P/bo24045005.html
