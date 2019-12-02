@@ -2,7 +2,7 @@ $(document).ready(function () {
   // constants
   var PLAYING = 'playing',
       PAUSED = 'paused',
-      LOOP_INTERVAL = 5; // in seconds
+      LOOP_INTERVAL = 8; // in seconds
 
   // els
   var $playPause = $('#timeline-slider--play-pause'),
