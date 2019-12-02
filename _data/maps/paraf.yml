@@ -56,7 +56,7 @@ maps:
         Johnson, A.J. <i>New York and Brooklyn</i>. 1874. (David Rumsey Map Collection)
     image: ParafTravels_NewYork_960_arrow.jpg
 
-  - timeline: 1868b
+  - timeline: 1868
     title: 1868
     location: Boston
     content:
@@ -73,7 +73,7 @@ maps:
         Colton, G.W. <i>Boston and Adjacent Cities</i>. 1874. (David Rumsey Map Collection)
     image: ParafTravels_Boston_960_arrow.jpg
 
-  - timeline: 1868b
+  - timeline: 1868
     title: 1868
     location: New York City
     content:
