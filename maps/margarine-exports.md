@@ -21,8 +21,7 @@ before being displaced in priority by shipments to Germany, Norway,
 and The Netherlands by the early twentieth century. As with shipments
 of raw oleo oil, notable trends include a change in destination
 into the early 1900s to include expanding markets in Asia, Central
-America, South America, and Africa. Full data sets of the flow paths
-listing individual nations and quantities are [here](/notes).
+America, South America, and Africa.
 
 ---
 

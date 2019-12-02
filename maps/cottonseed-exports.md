@@ -25,8 +25,7 @@ flows rather than specific national ones. Also note that
 inconsistency in record keeping leads to inconsistent labels for
 the export locations. Thus, some are continents, some are regions,
 and some are nations. We have sought to provide as much consistency
-as possible across the range of maps. Full data sets of the flow
-paths listing individual nations and quantities are [here](/notes).
+as possible across the range of maps.
 
 ----
 

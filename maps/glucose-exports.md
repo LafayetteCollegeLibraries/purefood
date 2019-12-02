@@ -20,8 +20,6 @@ the U.S. for glucose that their records offered more precision
 and, thus, the maps show direct flows to the UK while showing
 aggregated export streams to regions (Northern Europe, Southern
 Europe, South America) with less specificity in record keeping.
-Full data sets of export and import locations listing individual
-nations and quantities are [here](/notes).
 
 ---
 

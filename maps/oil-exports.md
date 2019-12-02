@@ -22,8 +22,7 @@ remained as second and third place destinations through the period
 from 1890 to 1910. As with shipments of finished margarine, notable
 trends include a change in destination into the first decade of the
 twentieth century to include expanding markets in Asia, Central
-America, South America, and Africa. Full data sets of the flow
-paths listing individual nations and quantities are [here](/notes).
+America, South America, and Africa.
 
 ---
 

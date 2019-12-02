@@ -42,5 +42,4 @@ margarine. A third level of regulation taxed the margarine per
 pound. This became more prominent after U.S. Congress passed the
 federal 1886 Oleomargarine Law. A final level was to prohibit
 outright the production and sales of oleo, much as many states today
-prohibit raw milk. Full data sets of the states and types of
-legislation are [here](/notes).
+prohibit raw milk.
