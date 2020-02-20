@@ -11,6 +11,7 @@
     {% if layout.stylesheets %}{% for src in layout.stylesheets %}<link rel="stylesheet" href="{{ src }}" />{% endfor %}{% endif %}
     <link rel="stylesheet" href="/assets/css/style.css" />
     <script src="/assets/js/jquery-3.3.1.slim.min.js"></script>
+    {% include google-analytics.html %}
     {% if page.layout == 'map' %}{% include prerender-images.html page=page %}{%- endif -%}
   </head>
   <body>
