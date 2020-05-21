@@ -25,7 +25,7 @@
     of pure and adulterated foods with reference to trust, deception, and the confusing appearance of
     reality in a new world of manufactured goods.
   links:
-    - url: /paraf
+    - url: /maps/paraf
       text: View the Maps
 
 - section:
@@ -73,9 +73,9 @@
     lands and the Midwest to the east coast, the south, and to export markets around the Atlantic
     world.
   links:
-    - url: /margarine-production
+    - url: /maps/margarine-production
       text: View the Production Maps
-    - url: /margarine-exports
+    - url: /maps/margarine-exports
       text: View the Export Maps
 
 - heading: Chapter 5
@@ -91,9 +91,9 @@
     a lard substitute. This chapter draws the geography of the upstart adulterant by mapping the new
     relationships between southern cotton fields, Midwestern packinghouses, and global markets.
   links:
-    - url: /cottonseed-production
+    - url: /maps/cottonseed-production
       text: View the Production Maps
-    - url: /cottonseed-exports
+    - url: /maps/cottonseed-exports
       text: View the Export Maps
 
 - heading: Chapter 6
@@ -109,7 +109,7 @@
     geography of fake sugar and sweetener production, tracking their production, distribution and
     status in the landscape of adulteration.
   links:
-    - url: /glucose-exports
+    - url: /maps/glucose-exports
       text: View the Maps
 
 - section:
