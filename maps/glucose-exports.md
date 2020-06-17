@@ -14,8 +14,8 @@ expanded from five global regional destinations to seven. In terms
 of quantity, the exports grew fifteen-fold from about 46 million
 to 728 million pounds in 1910. Some of the more notable trends are
 the increases in shipment to various South American countries by
-the early 1900s and shipments to new Asian markets beginning in
-1905. The United Kingdom was such a large trading partner with
+the early 1900s and shipments to new Asian markets beginning in 1905.
+The United Kingdom was such a large trading partner with
 the U.S. for glucose that their records offered more precision
 and, thus, the maps show direct flows to the UK while showing
 aggregated export streams to regions (Northern Europe, Southern
