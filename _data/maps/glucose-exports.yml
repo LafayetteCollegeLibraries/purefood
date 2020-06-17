@@ -1,5 +1,5 @@
 horizontal_legend:
-  src: /assets/images/maps/glucose-exports/glucose_and_oleo_oil_legend.jpg
+  src: /assets/images/maps/glucose-exports/legend.jpg
 maps:
   - image: glucose_exports_1890.jpg
     timeline: 1890

@@ -1,3 +1,5 @@
+horizontal_legend:
+  src: /assets/images/maps/margarine-exports/legend.jpg
 maps:
   - image: margarine_exports_1890.jpg
     timeline: 1890

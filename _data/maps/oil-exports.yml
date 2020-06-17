@@ -1,3 +1,5 @@
+horizontal_legend:
+  src: /assets/images/maps/oil-exports/legend.jpg
 maps:
   - image: oil_exports_1890.jpg
     timeline: 1890
